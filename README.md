@@ -81,7 +81,7 @@ Also SDK has opportunity to use custom logger. Just use protocols `KinescopeLogg
 Just add KinescopeSDK to your `Podfile` like this
 
 ```
-pod 'KinescopeSDK' ~> 0.2
+pod 'KinescopeSDK', '~> 0.2'
 ```
 
 If you have any issues with method above, than you can specify git repo like this
